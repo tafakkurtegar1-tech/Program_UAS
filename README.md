@@ -11,7 +11,7 @@
 <img width="50%" alt="Screenshot (583)" src="https://github.com/user-attachments/assets/122848d3-7e7c-474f-aafd-be5edbe1a804" />
 
 
-<img width="50%" alt="Screenshot (581)" src="https://github.com/user-attachments/assets/ac694dae-9c70-4b92-a3d7-9ab1f0de5e41" 
+<img width="50%" alt="Screenshot (581)" src="https://github.com/user-attachments/assets/ac694dae-9c70-4b92-a3d7-9ab1f0de5e41" />
 
  ## Halaman karyawan ketika sudah mengisi form cuti baru
 
