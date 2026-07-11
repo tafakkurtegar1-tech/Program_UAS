@@ -1,4 +1,4 @@
-# Tugas UAS Pemograman HTML dan JavaScript PROGRAM CUTI KARYAWAN
+# Tugas UAS Pemograman HTML dan JavaScript PROGRAM CUTI KARYAWAN PT TETARA SOLUSI DIGITAL
 ## Halaman Login Cuti Karyawan PT TETARA SOLUSI DIGITAL
 <img width="50%" alt="Screenshot (580)" src="https://github.com/user-attachments/assets/65d18ef0-f844-4dcd-a6a2-b2ed33f9d0ff" />
 
